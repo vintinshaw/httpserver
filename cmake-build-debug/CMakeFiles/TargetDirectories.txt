@@ -1,0 +1,3 @@
+/Users/OaixNait/Documents/Code.nosync/C++project/httpserver/cmake-build-debug/CMakeFiles/httpserver.dir
+/Users/OaixNait/Documents/Code.nosync/C++project/httpserver/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/OaixNait/Documents/Code.nosync/C++project/httpserver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
